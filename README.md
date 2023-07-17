@@ -19,16 +19,3 @@ working code.
 
 We look forward to meeting you!
 
-## I'm not that comfortable with react
-
-That's totally fine! We know there is more to an engineer than the the stack or technology they know. If you're more comfortable
-with a different frontend toolchain feel free to come to the pairing exercise with a "create-react-app" like setup.
-
-```
-$ ng new angular-app
-$ vue create hello-world
-$ npx create-next-app@latest
-$ npm create svelte@latest myapp
-...
-or equivalent
-```
