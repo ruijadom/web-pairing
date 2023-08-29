@@ -10,7 +10,7 @@ module.exports = {
     "standard",
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
-    "plugin:@tanstack/eslint-plugin-query/recommended"
+    "plugin:@tanstack/eslint-plugin-query/recommended",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
@@ -34,7 +34,7 @@ module.exports = {
         trailingComma: "all",
         arrowParens: "always",
         semi: true,
-        endOfLine: "auto"
+        endOfLine: "auto",
       },
     ],
     "react/react-in-jsx-scope": "off",
@@ -62,4 +62,4 @@ module.exports = {
     },
   },
   ignorePatterns: ["node_modules"],
-}
+};
