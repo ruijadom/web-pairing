@@ -30,6 +30,7 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
+    "@tanstack/eslint-plugin-query": "^4.34.1",
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "commitlint-plugin-function-rules": "^2.0.2",
