@@ -17,5 +17,5 @@
     "jsx": "react-jsx"
   },
   "include": ["src", "postcss.config.cjs"],
-  "extends": "./tsconfig.paths.json"
+  "extends": "./tsconfig.paths.json",
 }
