@@ -1,21 +1,7 @@
-import React from "react"
-import logo from "./assets/logo.svg"
-import "./App.css"
+import React from "react";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
-        <div className="content">
-          <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-          </p>
-        </div>
-      </header>
-    </div>
-  )
+  return <div className=" bg-slate-500">test</div>;
 }
 
-export default App
+export default App;

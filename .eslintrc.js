@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: ["react", "jsx-a11y", "@typescript-eslint", "@tanstack/query"],
   rules: {
-    "react/self-closing-comp": "error",
+    "@typescript-eslint/no-var-requires": 0,
     "@tanstack/query/exhaustive-deps": "error",
     "@tanstack/query/prefer-query-object-syntax": "error",
     "prettier/prettier": [
@@ -38,6 +38,7 @@ module.exports = {
       },
     ],
     "react/react-in-jsx-scope": "off",
+    "react/self-closing-comp": "error",
     "react/prop-types": "off",
     "jsx-a11y/alt-text": [
       "warn",
