@@ -5,7 +5,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-        montserrat: ["Montserrat"],
+        montserrat: ["Poppins", "sans-serif"],
       },
       fontSize: {
         xs: ["0.688rem", { lineHeight: "0.838rem" }], // font-size - 11px; line-height - 13.41px

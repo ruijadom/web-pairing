@@ -32,16 +32,15 @@
     --radius: 0.5rem;
   }
 }
- 
-html {
-  font-family: "Poppins", sans-serif;
-}
 
 @layer base {
-  body {
+  html {
     @apply bg-background text-foreground;
+    font-family: "Poppins", sans-serif;
   }
 }
+
+
 
 
 
